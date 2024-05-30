@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titolo" type="id" />
+    <item name="prezzo" type="id" />
+    <item name="img" type="id" />
+    <item name="rv" type="id" />
+</resources>
